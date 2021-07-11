@@ -1,0 +1,34 @@
+body {
+    background: radial-gradient(black, green)
+    }
+
+h1 {
+    text-align: center;
+    margin:auto;
+    }
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    }
+p{
+    text-align: center;
+    font-family: fantasy;
+    padding-top: 5%;
+    color: black;
+}
+a:link {
+    font-size: 20px;
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+tbody {
+    font-size: 4em;
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+    };
+
